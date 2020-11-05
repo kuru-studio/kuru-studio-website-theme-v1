@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["kuru-studio-website-theme-v1", "site"]
+}
